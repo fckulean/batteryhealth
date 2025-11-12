@@ -5,11 +5,11 @@ Quick battery health checker script for Windows 10/11 laptops
 1. Clone repository
 - Use `git clone https://github.com/fckulean/batteryhealth`
 - Or `Code > Download ZIP` and extract it.
-- Or [just click here to download](https://github.com/fckulean/batteryhealth/archive/refs/heads/main.zip).
+- Or [just click here to download](https://github.com/fckulean/BatteryHealth/archive/refs/heads/main.zip).
 2. Right click on `batteryhealth.ps1` > Run with PowerShell
 
 ## Installation - Method 2
-1. Download pre-compiled `.exe` binary or `.ps1` script from Releases
+1. Download pre-compiled `.exe` binary or `.ps1` script from [Releases](https://github.com/fckulean/BatteryHealth/releases/latest)
 2. Run the executable file or right click on `.ps1` script > Run with PowerShell
 
 ## Compile it yourself
